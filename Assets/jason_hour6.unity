@@ -4348,7 +4348,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 948837399}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -47, y: 41.5, z: -125.9}
+  m_LocalPosition: {x: -47, y: 38.2, z: -125.9}
   m_LocalScale: {x: 19.283901, y: 1, z: 13.857731}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5432,7 +5432,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1144363865}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -246.3, y: 41, z: 15}
+  m_LocalPosition: {x: -246.3, y: 38.1, z: 15}
   m_LocalScale: {x: 19.283901, y: 1, z: 13.857731}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7638,6 +7638,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_RunSpeed
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
+      propertyPath: m_WalkSpeed
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
 --- !u!1 &1559260476
@@ -8914,7 +8922,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1784834475}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.3, y: 40.5, z: 146.9}
+  m_LocalPosition: {x: -2.3, y: 39.9, z: 146.9}
   m_LocalScale: {x: 19.283901, y: 1, z: 13.857731}
   m_Children: []
   m_Father: {fileID: 0}
